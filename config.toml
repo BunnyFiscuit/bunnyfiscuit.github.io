@@ -49,10 +49,10 @@ canonifyurls = true
   job = "Software Engineer"
   location = "Sweden"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "sarosh.nasir@gmail.com"
+  #gravatarEmail = "sarosh.nasir@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://ca.slack-edge.com/T02H99CB0-U020VLZ2AMB-46988ce6d57b-512.jpg"
+  picture = "https://media.licdn.com/dms/image/C4E03AQFIJAwqoghjdA/profile-displayphoto-shrink_800_800/0/1636390409649?e=1683158400&v=beta&t=l-ITYn6XbavwJbA3WHkjvEZNGCX1GWii2bxgspdbKQE"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
